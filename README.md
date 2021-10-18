@@ -1,7 +1,7 @@
 # EPITECH Email Addresses Scraper
 
 ### Purpose: 
-Script scraping my school intranet to collect the email addresses of current and past students.
+Script scraping my university intranet to collect the email addresses of current and past students.
 
 ### History
 I was browsing on the intranet of my university, when I was intrigued by a specific feature. On the profil section you can see a graph containing all students you worked with for at least one project.
